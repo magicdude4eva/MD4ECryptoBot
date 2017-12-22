@@ -1,17 +1,6 @@
-# Gekko [![npm](https://img.shields.io/npm/dm/gekko.svg)]() [![Build Status](https://travis-ci.org/askmike/gekko.png)](https://travis-ci.org/askmike/gekko) [![Build status](https://ci.appveyor.com/api/projects/status/github/askmike/gekko?branch=stable&svg=true)](https://ci.appveyor.com/project/askmike/gekko)
-
-![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
-
-### Discord community for crypto bots
-<a href="https://discord.gg/qZHhdju"><img src="https://discordapp.com/assets/fc0b01fe10a0b8c602fb0106d8189d9b.png" height="70" ></a>
-<br>
+A fork from Gekko which contains over 20 different indicators and strategies for crypto trading
 
 
-*The most valuable commodity I know of is information.*
-
--Gordon Gekko
-
-Gekko is a Bitcoin TA trading and backtesting platform that connects to popular Bitcoin exchanges. It is written in JavaScript and runs on [Node.js](http://nodejs.org).
 
 *Use Gekko at your own risk.*
 
@@ -25,4 +14,8 @@ See [the installing Gekko doc](https://gekko.wizb.it/docs/installation/installin
 
 ## Final
 
-If Gekko helped you in any way, you can always leave me a tip at (BTC) 13r1jyivitShUiv9FJvjLH7Nh1ZZptumwW
+If this helped you in any way, you can always leave me a tip at
+(Riple) rPz4YgyxPpk7xqQQ9P7CqNFvK17nhBdfoy
+(BTC)   35cAMxpiNJ4VS1pLj2YtBee31BXopHG7oN
+(ETH)   0xa6fc81020a27CC9eE8ba7f96c1723Bd7EE043639
+(LTC)   MFJahbPaLLXgFPHaksmgzSmPxaX2zWTeLi
