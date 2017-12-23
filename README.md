@@ -32,13 +32,13 @@ The long-term idea is to run multiple bots via Docker or via the command line.
 
 
 ## Donations are always welcome
-
 If this helped you in any way, you can always leave me a tip at
+```
+(Ripple) rPz4YgyxPpk7xqQQ9P7CqNFvK17nhBdfoy
+(BTC)    35cAMxpiNJ4VS1pLj2YtBee31BXopHG7oN
+(ETH)    0xb0f2d091dcdd036cd26017bb0fbd6c1488fc8d04
+(LTC)    MFJahbPaLLXgFPHaksmgzSmPxaX2zWTeLi
+(XVG)    D5nBpFBaD6vmVJ5CBUhkz8E4SNWscf6pMu
+```
 
-(Riple) rPz4YgyxPpk7xqQQ9P7CqNFvK17nhBdfoy
-
-(BTC)   35cAMxpiNJ4VS1pLj2YtBee31BXopHG7oN
-
-(ETH)   0xa6fc81020a27CC9eE8ba7f96c1723Bd7EE043639
-
-(LTC)   MFJahbPaLLXgFPHaksmgzSmPxaX2zWTeLi
+I have received some generous donations with a request to share the code-base right now. I am glad to do this but will not provide any support. I might change this repo into private going forward if I receive more requests and then share updates until the public release.
