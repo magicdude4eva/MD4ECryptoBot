@@ -35,10 +35,11 @@ The long-term idea is to run multiple bots via Docker or via the command line.
 If this helped you in any way, you can always leave me a tip at
 ```
 (Ripple) rPz4YgyxPpk7xqQQ9P7CqNFvK17nhBdfoy
-(BTC)    35cAMxpiNJ4VS1pLj2YtBee31BXopHG7oN
+(BTC)    1Mhq9SY6DzPhs7PNDx7idXFDWsGtyn7GWM
 (ETH)    0xb0f2d091dcdd036cd26017bb0fbd6c1488fc8d04
-(LTC)    MFJahbPaLLXgFPHaksmgzSmPxaX2zWTeLi
+(LTC)    LTfP7yJSpGFvuPqjSEKaqcjue6KSA9118y
 (XVG)    D5nBpFBaD6vmVJ5CBUhkz8E4SNWscf6pMu
+(BNB)    0xb0f2d091dcdd036cd26017bb0fbd6c1488fc8d04
 ```
 
 I have received some generous donations with a request to share the code-base right now. I am glad to do this but will not provide any support. I might change this repo into private going forward if I receive more requests and then share updates until the public release.
