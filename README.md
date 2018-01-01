@@ -42,6 +42,8 @@ If this helped you in any way, you can always leave me a tip at
 (BNB)    0xb0f2d091dcdd036cd26017bb0fbd6c1488fc8d04
 ```
 
+Sign up to [Cointracking](https://cointracking.info?ref=M263159) which uses APIs to connect to all exchanges and helps you with tax. Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. Join [TradingView](http://tradingview.go2cloud.org/aff_c?offer_id=2&aff_id=7432) to get trend-reports.
+
 I have received some generous donations with a request to share the code-base right now. I am glad to do this but will not provide any support. I might change this repo into private going forward if I receive more requests and then share updates until the public release.
 
 If you want access to the code-base, please send me a message with your transaction ID/sender address for any of the currencies above. I will only send you the code-base via PGP. You can find my key on my Twitter account https://twitter.com/gerdnaschenweng
