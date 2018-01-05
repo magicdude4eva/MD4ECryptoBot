@@ -1,3 +1,5 @@
+[Follow the BOT on Twitter](https://twitter.com/MD4ECryptoBot)
+
 A fork from Gekko. The MD4ECryptoBot contains over 20 different indicators and strategies for crypto trading using a number of different trend patterns to identify buy- and sell signals in the crypto market.
 
 It contains paper-trading (simulates real trades against an exchange) functionality and contains extensive configuration options to enable buy-/sell-protection and can be customised as all code will be accessible and is easy to change (it is Javascript after all).
