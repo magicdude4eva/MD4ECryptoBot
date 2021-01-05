@@ -34,18 +34,16 @@ The long-term idea is to run multiple bots via Docker or via the command line.
 
 
 ## Donations are always welcome
-If this helped you in any way, you can always leave me a tip at
+:beer: **Please support me**: If the above helped you in any way, then [follow me on Twitter](https://twitter.com/gerdnaschenweng) or send me some coins: 
 ```
-(BTC)    1KBJLaaxgu7XBVsrTWg7XaFmSPRymiCvVz
-(ETH)    0x457772e18E9e65ef770666cfE45020b1887264A0
+(BTC)    36nBgsAhBBzkTvJMut851XVj47bUrdsmQx
+(ETH)    0xE572b3B1187a3Ab77D72f7d6AeCd18DF26306cfC
 (BAT)    0x48c65D6f768D92d4a23E4e9d25329E7De67c14d9
-(LTC)    MLKZxPxhjKufqyYvv74StPFNxpbCnBRAdr
+(LTC)    M8TNsiQWe591HTkDtLubZeftbejfPMcoUy
 (Ripple) rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg (Tag: 2478959347)
 (XLM)    GDQP2KPQGKIHYJGXNUIYOMHARUARCA7DJT5FO2FFOOKY3B2WSQHG4W37 (Memo ID: 909493707)
 ```
 
-Sign up to [Cointracking](https://cointracking.info?ref=M263159) which uses APIs to connect to all exchanges and helps you with tax. Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. Join [TradingView](http://tradingview.go2cloud.org/aff_c?offer_id=2&aff_id=7432) to get trend-reports.
+Sign up to [Cointracking](https://cointracking.info?ref=M263159) which uses APIs to connect to all exchanges and helps you with tax. Use [Binance Exchange](https://www.binance.com/?ref=13896895) to trade #altcoins. Join [TradingView](http://tradingview.go2cloud.org/aff_c?offer_id=2&aff_id=7432) to get trend-reports. Sign up with [Coinbase](https://www.coinbase.com/join/nasche_x) and **instantly get $10 in BTC**. I also accept old-school **[PayPal](https://paypal.me/GerdNaschenweng)**.
 
-I have received some generous donations with a request to share the code-base right now. I am glad to do this but will not provide any support. I might change this repo into private going forward if I receive more requests and then share updates until the public release.
-
-If you want access to the code-base, please send me a message with your transaction ID/sender address for any of the currencies above. I will only send you the code-base via PGP. You can find my key on my Twitter account https://twitter.com/gerdnaschenweng
+If you have no crypto, follow me at least on [Twitter](https://twitter.com/gerdnaschenweng).
