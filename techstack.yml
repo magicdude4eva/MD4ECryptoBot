@@ -1,11 +1,11 @@
 repo_name: magicdude4eva/MD4ECryptoBot
-report_id: 6077e69440764ebd62aec80a5d0ea33b
+report_id: 74fad0989b4653eaba9d96eb55945303
 repo_type: Public
-timestamp: '2023-11-09T17:35:31+00:00'
+timestamp: '2023-12-14T09:52:33+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: stable
-detected_tools_count: 52
+detected_tools_count: 59
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -40,7 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1726/5055057.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2013-05-13 14:17:53.000000000 Z
@@ -54,7 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: Dockerfile
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Clifford Roche
   last_updated_on: 2017-12-05 03:34:14.000000000 Z
@@ -68,7 +68,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -96,6 +96,31 @@ tools:
   detection_source: web/vue/package.json
   last_updated_by: Tim Janssens
   last_updated_on: 2017-04-07 12:47:33.000000000 Z
+- name: Heroku Postgres
+  description: Heroku's Database-as-a-Service. Based on the most powerful open-source
+    database, PostgreSQL
+  website_url: https://www.heroku.com/postgres
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: PostgreSQL as a Service
+  image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source: docker-compose.yml
+  last_updated_by: Cassiano Vailati
+  last_updated_on: 2017-08-11 23:18:51.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  version: '9.6'
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: Cassiano Vailati
+  last_updated_on: 2017-08-11 23:18:51.000000000 Z
 - name: Redis
   description: Open source (BSD licensed), in-memory data structure store
   website_url: http://redis.io/
@@ -130,8 +155,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: web/vue/package.json
-  detection_source: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
+  detection_source: web/vue/.babelrc
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
 - name: Chai
@@ -144,7 +169,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2013-05-13 14:17:53.000000000 Z
@@ -190,8 +215,20 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
+  last_updated_by: Chase Sillevis
+  last_updated_on: 2017-05-11 13:00:59.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source: docker-compose.yml
   last_updated_by: Chase Sillevis
   last_updated_on: 2017-05-11 13:00:59.000000000 Z
 - name: NuGet
@@ -214,7 +251,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/3509/logo.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2017-03-26 11:33:25.000000000 Z
@@ -240,8 +277,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: web/vue/package.json
-  detection_source: web/vue/webpack.config.js
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
+  detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
 - name: npm
@@ -255,6 +292,38 @@ tools:
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
+- name: Gekko
+  description: The one system for freelancers to easily manage their books online
+  website_url: https://getgekko.com
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: Accounting
+  image_url: https://img.stackshare.io/service/810/4a7330a0266156c793d9dd8fd72897dc.png
+  detection_source: package.json
+  last_updated_by: Chase Sillevis
+  last_updated_on: 2017-05-11 13:00:59.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source: docker-compose.yml
+  last_updated_by: Cassiano Vailati
+  last_updated_on: 2017-08-11 23:18:51.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: web/vue/index.html
+  last_updated_by: Mike van Rossum
+  last_updated_on: 2016-10-27 13:04:13.000000000 Z
 - name: Lodash
   description: A JavaScript utility library
   website_url: https://lodash.com
@@ -264,7 +333,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/2438/lodash.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-06-05 18:49:28.000000000 Z
@@ -279,7 +348,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2017-12-05 06:22:44.000000000 Z
@@ -313,7 +382,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18525/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Wing Leung
   last_updated_on: 2017-08-11 16:11:43.000000000 Z
@@ -327,7 +396,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15851/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-13 14:07:29.000000000 Z
@@ -341,7 +410,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -355,7 +424,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -369,7 +438,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15805/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -383,7 +452,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18766/default_06010cfa264fa2cbe22d86f1840c7652a6ae4011.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-26 22:43:43.000000000 Z
@@ -397,7 +466,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-06-10 07:40:42.000000000 Z
@@ -411,7 +480,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -425,7 +494,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -439,7 +508,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16163/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2017-07-25 20:38:21.000000000 Z
@@ -453,7 +522,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -467,7 +536,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16659/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-08 15:32:38.000000000 Z
@@ -481,7 +550,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17316/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-08 15:32:38.000000000 Z
@@ -495,7 +564,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16329/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-08 15:32:38.000000000 Z
@@ -509,7 +578,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16538/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2017-04-19 18:09:36.000000000 Z
@@ -523,7 +592,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -534,17 +603,23 @@ tools:
     detected_date: Jan 15
     severity: high
     first_patched: 4.0.10
+  - name: Regular Expression Denial of Service in marked
+    cve_id: CVE-2017-16114
+    cve_url: https://github.com/advisories/GHSA-x5pg-88wf-qq4p
+    detected_date: Aug 22
+    severity: high
+    first_patched: 0.3.9
   - name: Inefficient Regular Expression Complexity in marked
     cve_id: CVE-2022-21681
     cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
     detected_date: Jan 15
     severity: high
     first_patched: 4.0.10
-  - name: Regular Expression Denial of Service in marked
-    cve_id: CVE-2017-16114
-    cve_url: https://github.com/advisories/GHSA-x5pg-88wf-qq4p
-    detected_date: Aug 22
-    severity: high
+  - name: Cross-Site Scripting in marked
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8wp3-cp9v-44fm
+    detected_date: Aug 13
+    severity: moderate
     first_patched: 0.3.9
   - name: Content injection in marked
     cve_id: 
@@ -564,12 +639,6 @@ tools:
     detected_date: Aug 22
     severity: moderate
     first_patched: 0.3.9
-  - name: Cross-Site Scripting in marked
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-8wp3-cp9v-44fm
-    detected_date: Aug 13
-    severity: moderate
-    first_patched: 0.3.9
 - name: moment
   description: Parse, validate, manipulate, and display dates
   package_url: https://www.npmjs.com/moment
@@ -580,7 +649,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2017-12-05 06:22:44.000000000 Z
@@ -607,7 +676,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16099/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2013-05-13 14:17:53.000000000 Z
@@ -622,7 +691,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16138/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-07 11:27:28.000000000 Z
@@ -637,10 +706,31 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18127/image.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Andrei Alecu
   last_updated_on: 2017-06-08 10:26:58.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.0.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
+  detection_source: package.json
+  last_updated_by: Mike van Rossum
+  last_updated_on: 2017-12-05 06:22:44.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
 - name: sqlite3
   description: Asynchronous, non-blocking SQLite3 bindings
   package_url: https://www.npmjs.com/sqlite3
@@ -651,7 +741,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2017-06-03 14:40:15.000000000 Z
@@ -665,7 +755,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -686,7 +776,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18079/image.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-01 16:13:34.000000000 Z
@@ -700,7 +790,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18617/default_556cbbde03c4b61e43fa7de374efed6927510d08.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package-lock.json
   detection_source: package.json
   last_updated_by: Jeff K
   last_updated_on: 2017-07-24 02:01:52.000000000 Z
@@ -714,7 +804,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -728,7 +818,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15901/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: user1
   last_updated_on: 2016-11-22 15:29:20.000000000 Z
@@ -742,7 +832,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: user1
   last_updated_on: 2016-11-22 15:29:20.000000000 Z
@@ -756,7 +846,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: web/vue/package.json
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
