@@ -1,64 +1,78 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 magicdude4eva/MD4ECryptoBot is built on the following main stack:
+
+- [Gekko](https://getgekko.com) – Accounting
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [PostgreSQL](http://www.postgresql.org/) – Databases
 - [Redis](http://redis.io/) – In-Memory Databases
+- [NGINX](http://nginx.org) – Web Servers
 - [SQLite](http://www.sqlite.org/) – Databases
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [Koa](http://koajs.com/) – Microframeworks (Backend)
 - [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - [Babel](http://babeljs.io/) – JavaScript Compilers
 - [ESLint](http://eslint.org/) – Code Review
 - [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - [vuex](https://vuex.vuejs.org) – State Management Library
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 magicdude4eva/MD4ECryptoBot is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/810/4a7330a0266156c793d9dd8fd72897dc.png' alt='Gekko'/> [Gekko](https://getgekko.com) – Accounting
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/1071/sqlite.jpg' alt='SQLite'/> [SQLite](http://www.sqlite.org/) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1726/5055057.png' alt='Koa'/> [Koa](http://koajs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [magicdude4eva/MD4ECryptoBot](https://github.com/magicdude4eva/MD4ECryptoBot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|52<br/>Tools used|11/09/23 <br/>Report generated|
+|59<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -128,9 +142,25 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/databases.svg'/> Data (2)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (4)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'>
+  <br>
+  <sub><a href="https://www.heroku.com/postgres">Heroku Postgres</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'>
+  <br>
+  <sub><a href="http://www.postgresql.org/">PostgreSQL</a></sub>
+  <br>
+  <sub>v9.6</sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'>
   <br>
   <sub><a href="http://redis.io/">Redis</a></sub>
@@ -149,7 +179,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (11)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (12)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'>
@@ -200,6 +230,14 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'>
+  <br>
+  <sub><a href="http://nginx.org">NGINX</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg' alt='NuGet'>
   <br>
   <sub><a href="https://www.nuget.org/">NuGet</a></sub>
@@ -207,7 +245,9 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'>
   <br>
   <sub><a href="http://sinonjs.org/">SinonJS</a></sub>
@@ -215,9 +255,7 @@ Full tech stack [here](/techstack.md)
   <sub>v1.17.7</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'>
   <br>
   <sub><a href="http://travis-ci.com/">Travis CI</a></sub>
@@ -244,9 +282,38 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (4)
+## <img src='https://img.stackshare.io/saas.svg'/> Software as a Service (SaaS) (1)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/810/4a7330a0266156c793d9dd8fd72897dc.png' alt='Gekko'>
+  <br>
+  <sub><a href="https://getgekko.com">Gekko</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## Other (6)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'>
+  <br>
+  <sub><a href="https://www.alpinelinux.org/">Alpine Linux</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
+  <br>
+  <sub><a href="http://">HTML</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
   <br>
   <sub><a href="https://lodash.com">Lodash</a></sub>
@@ -282,9 +349,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (29)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -303,11 +370,12 @@ Full tech stack [here](/techstack.md)
 |[koa-logger](https://www.npmjs.com/koa-logger)|v1.3.1|11/08/16|Mike van Rossum |MIT|N/A|
 |[koa-router](https://www.npmjs.com/koa-router)|v5.4.2|11/08/16|Mike van Rossum |MIT|N/A|
 |[koa-static](https://www.npmjs.com/koa-static)|v2.1.0|04/19/17|Mike van Rossum |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.6|11/07/16|Mike van Rossum |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v0.3.6|11/07/16|Mike van Rossum |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)|
 |[moment](https://www.npmjs.com/moment)|v2.19.3|12/05/17|Mike van Rossum |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[opn](https://www.npmjs.com/opn)|v4.0.2|05/13/13|Mike van Rossum |MIT|N/A|
 |[proxyquire](https://www.npmjs.com/proxyquire)|v1.8.0|10/07/16|Mike van Rossum |MIT|N/A|
 |[retry](https://www.npmjs.com/retry)|v0.9.0|06/08/17|Andrei Alecu |MIT|N/A|
+|[semver](https://www.npmjs.com/semver)|v5.0.3|12/05/17|Mike van Rossum |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
 |[sqlite3](https://www.npmjs.com/sqlite3)|v3.1.11|06/03/17|Mike van Rossum |BSD-3-Clause|N/A|
 |[superagent](https://www.npmjs.com/superagent)|v2.3.0|11/07/16|Mike van Rossum |MIT|[CVE-2017-16129](https://github.com/advisories/GHSA-8225-6cvr-8pqp) (Moderate)|
 |[toml](https://www.npmjs.com/toml)|v2.3.3|11/01/16|Mike van Rossum |MIT|N/A|
@@ -320,4 +388,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
