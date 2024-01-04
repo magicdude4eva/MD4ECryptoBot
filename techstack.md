@@ -72,7 +72,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [magicdude4eva/MD4ECryptoBot](https://github.com/magicdude4eva/MD4ECryptoBot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|59<br/>Tools used|12/14/23 <br/>Report generated|
+|59<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -370,7 +370,7 @@ Full tech stack [here](/techstack.md)
 |[koa-logger](https://www.npmjs.com/koa-logger)|v1.3.1|11/08/16|Mike van Rossum |MIT|N/A|
 |[koa-router](https://www.npmjs.com/koa-router)|v5.4.2|11/08/16|Mike van Rossum |MIT|N/A|
 |[koa-static](https://www.npmjs.com/koa-static)|v2.1.0|04/19/17|Mike van Rossum |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.6|11/07/16|Mike van Rossum |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v0.3.6|11/07/16|Mike van Rossum |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2017-16114](https://github.com/advisories/GHSA-x5pg-88wf-qq4p) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-wjmf-58vc-xqjr) (Moderate)<br/>[](https://github.com/advisories/GHSA-8wp3-cp9v-44fm) (Moderate)<br/>[CVE-2017-17461](https://github.com/advisories/GHSA-crmx-v835-hcp4) (Moderate)<br/>[CVE-2017-1000427](https://github.com/advisories/GHSA-7px7-7xjx-hxm8) (Moderate)|
 |[moment](https://www.npmjs.com/moment)|v2.19.3|12/05/17|Mike van Rossum |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[opn](https://www.npmjs.com/opn)|v4.0.2|05/13/13|Mike van Rossum |MIT|N/A|
 |[proxyquire](https://www.npmjs.com/proxyquire)|v1.8.0|10/07/16|Mike van Rossum |MIT|N/A|
