@@ -1,7 +1,8 @@
 repo_name: magicdude4eva/MD4ECryptoBot
-report_id: 74fad0989b4653eaba9d96eb55945303
+report_id: 6077e69440764ebd62aec80a5d0ea33b
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:52:33+00:00'
+timestamp: '2024-01-04T15:09:34+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: stable
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2013-05-13 14:17:53.000000000 Z
@@ -81,6 +84,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -93,6 +97,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Tim Janssens
   last_updated_on: 2017-04-07 12:47:33.000000000 Z
@@ -105,6 +110,7 @@ tools:
   category: Data Stores
   sub_category: PostgreSQL as a Service
   image_url: https://img.stackshare.io/service/2516/original.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Cassiano Vailati
   last_updated_on: 2017-08-11 23:18:51.000000000 Z
@@ -130,6 +136,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Cassiano Vailati
   last_updated_on: 2017-08-11 23:18:51.000000000 Z
@@ -142,6 +149,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2013-05-13 14:17:53.000000000 Z
@@ -182,6 +190,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -192,6 +201,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -203,6 +213,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -228,6 +239,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Chase Sillevis
   last_updated_on: 2017-05-11 13:00:59.000000000 Z
@@ -239,6 +251,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package.json
   detection_source: package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2013-05-13 14:17:53.000000000 Z
@@ -264,6 +277,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Mike van Rossum
   last_updated_on: 2014-01-02 01:16:33.000000000 Z
@@ -289,6 +303,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -300,6 +315,7 @@ tools:
   category: Back Office
   sub_category: Accounting
   image_url: https://img.stackshare.io/service/810/4a7330a0266156c793d9dd8fd72897dc.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/package.json
   detection_source: package.json
   last_updated_by: Chase Sillevis
   last_updated_on: 2017-05-11 13:00:59.000000000 Z
@@ -312,6 +328,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/docker-compose.yml
   detection_source: docker-compose.yml
   last_updated_by: Cassiano Vailati
   last_updated_on: 2017-08-11 23:18:51.000000000 Z
@@ -321,6 +338,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/index.html
   detection_source: web/vue/index.html
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-10-27 13:04:13.000000000 Z
@@ -361,6 +379,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot
   detection_source: Repo Metadata
 - name: superagent library
   description: robust and clean node and browser reqest library
@@ -368,6 +387,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
@@ -598,8 +618,8 @@ tools:
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
   vulnerabilities:
   - name: Inefficient Regular Expression Complexity in marked
-    cve_id: CVE-2022-21680
-    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
     detected_date: Jan 15
     severity: high
     first_patched: 4.0.10
@@ -610,21 +630,27 @@ tools:
     severity: high
     first_patched: 0.3.9
   - name: Inefficient Regular Expression Complexity in marked
-    cve_id: CVE-2022-21681
-    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
     detected_date: Jan 15
     severity: high
     first_patched: 4.0.10
+  - name: Content injection in marked
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-wjmf-58vc-xqjr
+    detected_date: Aug 13
+    severity: moderate
+    first_patched: 0.3.9
   - name: Cross-Site Scripting in marked
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-8wp3-cp9v-44fm
     detected_date: Aug 13
     severity: moderate
     first_patched: 0.3.9
-  - name: Content injection in marked
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-wjmf-58vc-xqjr
-    detected_date: Aug 13
+  - name: Moderate severity vulnerability that affects marked
+    cve_id: CVE-2017-17461
+    cve_url: https://github.com/advisories/GHSA-crmx-v835-hcp4
+    detected_date: Aug 22
     severity: moderate
     first_patched: 0.3.9
   - name: Marked vulnerable to XSS from data URIs
@@ -633,12 +659,6 @@ tools:
     detected_date: Aug 22
     severity: moderate
     first_patched: 0.3.7
-  - name: Moderate severity vulnerability that affects marked
-    cve_id: CVE-2017-17461
-    cve_url: https://github.com/advisories/GHSA-crmx-v835-hcp4
-    detected_date: Aug 22
-    severity: moderate
-    first_patched: 0.3.9
 - name: moment
   description: Parse, validate, manipulate, and display dates
   package_url: https://www.npmjs.com/moment
