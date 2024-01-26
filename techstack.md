@@ -22,6 +22,7 @@ magicdude4eva/MD4ECryptoBot is built on the following main stack:
 - [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - [vuex](https://vuex.vuejs.org) – State Management Library
@@ -56,6 +57,7 @@ magicdude4eva/MD4ECryptoBot is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
@@ -72,13 +74,21 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [magicdude4eva/MD4ECryptoBot](https://github.com/magicdude4eva/MD4ECryptoBot)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|59<br/>Tools used|01/05/24 <br/>Report generated|
+|58<br/>Tools used|01/11/24 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (1)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (2)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'>
+  <br>
+  <sub><a href="http://www.ecma-international.org/ecma-262/6.0/">ES6</a></sub>
+  <br>
+  <sub>v6.0.0</sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
   <br>
   <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
@@ -295,20 +305,12 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (6)
+## Other (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'>
   <br>
   <sub><a href="https://www.alpinelinux.org/">Alpine Linux</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/2270/no-img-open-source.png' alt='HTML'>
-  <br>
-  <sub><a href="http://">HTML</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -349,9 +351,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (29)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -359,7 +361,6 @@ Full tech stack [here](/techstack.md)
 |[async](https://www.npmjs.com/async)|v1.5.2|11/13/16|Mike van Rossum |MIT|N/A|
 |[babel-core](https://www.npmjs.com/babel-core)|v6.0.0|10/27/16|Mike van Rossum |MIT|N/A|
 |[babel-loader](https://www.npmjs.com/babel-loader)|v6.0.0|11/07/16|Mike van Rossum |MIT|N/A|
-|[babel-preset-es2015](https://www.npmjs.com/babel-preset-es2015)|v6.0.0|10/27/16|Mike van Rossum |MIT|N/A|
 |[co-fs](https://www.npmjs.com/co-fs)|v1.2.0|10/26/16|Mike van Rossum |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v2.11.0|06/10/16|Mike van Rossum |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v3.0.0|10/27/16|Mike van Rossum |MIT|N/A|

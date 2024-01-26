@@ -2,12 +2,25 @@ repo_name: magicdude4eva/MD4ECryptoBot
 report_id: 6077e69440764ebd62aec80a5d0ea33b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:11:56+00:00'
+timestamp: '2024-01-11T12:35:56+00:00'
 requested_by: magicdude4eva
 provider: github
 branch: stable
-detected_tools_count: 59
+detected_tools_count: 58
 tools:
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.0.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
+  detection_source: web/vue/package.json
+  last_updated_by: Mike van Rossum
+  last_updated_on: 2016-10-27 13:04:13.000000000 Z
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
     functions
@@ -332,16 +345,6 @@ tools:
   detection_source: docker-compose.yml
   last_updated_by: Cassiano Vailati
   last_updated_on: 2017-08-11 23:18:51.000000000 Z
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/index.html
-  detection_source: web/vue/index.html
-  last_updated_by: Mike van Rossum
-  last_updated_on: 2016-10-27 13:04:13.000000000 Z
 - name: Lodash
   description: A JavaScript utility library
   website_url: https://lodash.com
@@ -448,20 +451,6 @@ tools:
   detection_source: web/vue/package.json
   last_updated_by: Mike van Rossum
   last_updated_on: 2016-11-07 17:47:34.000000000 Z
-- name: babel-preset-es2015
-  description: Babel preset for all es2015 plugins
-  package_url: https://www.npmjs.com/babel-preset-es2015
-  version: 6.0.0
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/15805/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: https://github.com/magicdude4eva/MD4ECryptoBot/blob/stable/web/vue/package.json
-  detection_source: web/vue/package.json
-  last_updated_by: Mike van Rossum
-  last_updated_on: 2016-10-27 13:04:13.000000000 Z
 - name: co-fs
   description: Fs wrappers for 'co'
   package_url: https://www.npmjs.com/co-fs
