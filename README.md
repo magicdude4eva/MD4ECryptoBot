@@ -36,7 +36,7 @@ The long-term idea is to run multiple bots via Docker or via the command line.
 
 ## Donations are always welcome
 [paypal]: https://paypal.me/GerdNaschenweng
-:beer: **Please support me**: Although all my software is free, it is always appreciated if you can support my efforts on Github with a [contribution via Paypal][paypal] - this allows me to write cool projects like this in my personal time and hopefully help you or your business. 
+:beer: **Please support me**: Although all my software is free, it is always appreciated if you can support my efforts on  with a [contribution via Paypal][paypal] - this allows me to write cool projects like this in my personal time and hopefully help you or your business. 
 ```
 (CRO)    0xBAdB43af444055c4031B79a76F74895469BA0CD7 (Cronos)
 (USDC)   0xBAdB43af444055c4031B79a76F74895469BA0CD7
