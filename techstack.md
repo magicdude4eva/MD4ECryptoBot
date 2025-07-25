@@ -28,6 +28,8 @@ magicdude4eva/MD4ECryptoBot is built on the following main stack:
 - [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -63,6 +65,8 @@ magicdude4eva/MD4ECryptoBot is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6429/alpine_linux.png' alt='Alpine Linux'/> [Alpine Linux](https://www.alpinelinux.org/) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png' alt='Moment.js'/> [Moment.js](http://momentjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3837/paeckCWC.png' alt='Vue.js'/> [Vue.js](http://vuejs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg' alt='ES6'/> [ES6](http://www.ecma-international.org/ecma-262/6.0/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
