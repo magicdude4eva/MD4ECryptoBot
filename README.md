@@ -46,7 +46,7 @@ The long-term idea is to run multiple bots via Docker or via the command line.
 Crypto.com PayString: magicdude$paystring.crypto.com    
 ```
 
-Go to [Curve.com to add your Crypto.com card to ApplePay](https://www.curve.com/join#DWPXKG6E) and signup to [Crypto.com for a staking and free Crypto debit card](https://crypto.com/app/ref6ayzqvp).
+Go to [Curve.com to add your Crypto.com card to ApplePay](https://www.curve.com/join#DWPXKG6E) and sigp to [Crypto.com for a staking and free Crypto debit card](https://crypto.com/app/ref6ayzqvp).
 
 Use [Binance Exchange](https://accounts.binance.com/register?ref=13896895) to trade #altcoins. I also accept old-school **[PayPal](https://paypal.me/GerdNaschenweng)**.
 
